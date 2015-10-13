@@ -1,5 +1,5 @@
 {
-    "iOS": "YES",
+    "iOS": "NO",
     "random": "2",
     "class" : "JPlaceholderTextView",
     "time" : "20",

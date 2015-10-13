@@ -1,4 +1,5 @@
 {
     "iOS": "YES",
-    "hk": 11
+    "random": "2",
+    "Class" : "ViewController"
 }

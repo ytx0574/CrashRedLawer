@@ -1,5 +1,5 @@
 {
     "iOS": "YES",
     "random": "2",
-    "Class" : "ViewController"
+    "Class" : "JPlaceholderTextView"
 }

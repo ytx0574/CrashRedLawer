@@ -1,6 +1,4 @@
 {
-    "iOS": "YES",
-    "random": "2",
-    "class" : "JPlaceholderTextView",
-    "time" : "2",
+    "Switch": "YES",
+    "time" : "0",
 }

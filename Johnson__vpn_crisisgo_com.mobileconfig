@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>EAP</key>
+			<dict/>
+			<key>IPSec</key>
+			<dict>
+				<key>AuthenticationMethod</key>
+				<string>SharedSecret</string>
+				<key>SharedSecret</key>
+				<data>Q3IxczFzRzAzMjEj</data>
+			</dict>
+			<key>IPv4</key>
+			<dict>
+				<key>OverridePrimary</key>
+				<integer>1</integer>
+			</dict>
+			<key>PPP</key>
+			<dict>
+				<key>AuthName</key>
+				<string>Johnson</string>
+				<key>CommRemoteAddress</key>
+				<string>vpn.crisisgo.com</string>
+				<key>TokenCard</key>
+				<true/>
+			</dict>
+			<key>PayloadDescription</key>
+			<string>Configures VPN settings, including authentication.</string>
+			<key>PayloadDisplayName</key>
+			<string>CrisisGo</string>
+			<key>PayloadIdentifier</key>
+			<string>com.astaro.mobileconfig.bbdf22d2-d568-3d1a-aa69-32db3ba5131c.Johnson.l2tp</string>
+			<key>PayloadOrganization</key>
+			<string>L2TP to vpn.crisisgo.com</string>
+			<key>PayloadType</key>
+			<string>com.apple.vpn.managed</string>
+			<key>PayloadUUID</key>
+			<string>B2FE3DA2-02BA-34AB-997D-9FE085F1C4DE</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>UserDefinedName</key>
+			<string>CrisisGo</string>
+			<key>VPNType</key>
+			<string>L2TP</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>This is your personalized Remote Access VPN configuration. Please continue by clicking the "Install" button. Note: this profile is valid unsigned.</string>
+	<key>PayloadDisplayName</key>
+	<string>VPN Configuration</string>
+	<key>PayloadIdentifier</key>
+	<string>com.astaro.mobileconfig.bbdf22d2-d568-3d1a-aa69-32db3ba5131c.Johnson</string>
+	<key>PayloadOrganization</key>
+	<string>Sophos UTM</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>4D8F1A2D-EEE3-38D4-B2E2-F844BA715BA8</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

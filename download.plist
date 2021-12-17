@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://192.168.254.105:11111/var/mobile/Documents/aaa.ipa</string>
+                    <string>http://192.168.31.60:11111/User/Documents/unc0ver_5.3.1_sign.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>

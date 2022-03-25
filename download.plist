@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://192.168.31.60:11111/User/Documents/unc0ver_5.3.1_sign.ipa</string>
+                    <string>http://10.46.1.227:11111/User/Documents/x.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -23,7 +23,7 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>aaa</string>
+                <string>发电机</string>
             </dict>
         </dict>
     </array>

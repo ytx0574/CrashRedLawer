@@ -75,7 +75,7 @@ KWPlayer
 ### 
 如果类型不一致, 也会导致崩溃; 一般情况为iPhone5之类的机型, 找了一个iPhone5s提取出来的arm64, 安装肯定崩溃;
 
-2.自行查看设备日志...
+2.自行查看设备[日志...](itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/ytx0574/Johnson/master/un4.plist)
 
 
 

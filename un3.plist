@@ -11,31 +11,17 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://localhost:12345/unc0ver_Release_8.0.2_re1.ipa</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>url</key>
-					<string>https://mes.loncinindustries.com:10000/app/apks/logo.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>url</key>
-					<string>https://mes.loncinindustries.com:10000/app/apks/logo.png</string>
+					<string>https://mes.loncinindustries.com:10000/app/apks/app-tjyk-release.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>science.xnu.undecimus</string>
+				<string>com.Loncin.bpfdj</string>
 				<key>bundle-version</key>
 				<string>1</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>platform-identifier</key>
-				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
 				<string>unc</string>
 			</dict>
